@@ -2,7 +2,7 @@
 
 Baseline model for the image captioning with the attention mechanism: https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
 
-Implementation code for the proposed model. The attempt was to generate diverse image descriptions for each input image using a Conditional Variational Autoencoder (CVAE) and deterministic attention. 
+This is the implementation code for the proposed model. The attempt was to generate diverse image descriptions for each input image using a Conditional Variational Autoencoder (CVAE) and deterministic attention. 
 We use beam search for caption generation. Given the same image input and the same beam size input, the model is able to generate different image descriptions.
 
 Some examples:
